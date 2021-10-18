@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Nav, Navbar, Stack } from 'react-bootstrap';
+import { Container, Nav, Navbar } from 'react-bootstrap';
 import { NavLink } from "react-router-dom";
 import "./Header.css"
 
@@ -7,25 +7,22 @@ const Header = () => {
     return (
         <div>
             <Navbar bg="primary" expand="lg">
-                <Container fluid>
-                    <Navbar.Brand className="text-white ms-5"><NavLink className="link" to="/home">PowerGym</NavLink></Navbar.Brand>
-                    <Navbar.Toggle aria-controls="navbarScroll" />
-                    <Navbar.Collapse id="navbarScroll">
-                        <Nav
-                            className="ms-auto px-5 my-2 my-lg-0"
-                            style={{ maxHeight: '100px' }}
-                            navbarScroll
-                        >
-                            <Stack direction="horizontal" gap={3}>
-                                <NavLink className="link" to="/home">Home</NavLink>
-                                <NavLink className="link" to="/about">About</NavLink>
-                                <NavLink className="link" to="/services">Services</NavLink>
-                                <NavLink className="link" to="/contact">Contact</NavLink>
-                                <NavLink className="link" to="/login">Login</NavLink>
-                                <NavLink className="link outline" to="/register">Register</NavLink>
-                            </Stack>
+                <Container className="text-center">
+                    <Navbar.Brand className="text-white">
+                        <NavLink className="link" to="/home">PowerGym</NavLink>
+                    </Navbar.Brand>
+                    <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                    <Navbar.Collapse id="basic-navbar-nav">
+                        <Nav className="ms-auto text-center">
+                            <NavLink className="link text-center" to="/home">Home</NavLink>
+                            <NavLink className="link text-center" to="/about">About</NavLink>
+                            <NavLink className="link text-center" to="/services">Services</NavLink>
+                            <NavLink className="link text-center" to="/contact">Contact</NavLink>
+                            <NavLink className="link text-center" to="/login">Login</NavLink>
+                            <NavLink className="link outline text-center" to="/register">Register</NavLink>
                         </Nav>
                     </Navbar.Collapse>
+                    <button className="btn btn-light">Log Out</button>
                 </Container>
             </Navbar>
         </div>
