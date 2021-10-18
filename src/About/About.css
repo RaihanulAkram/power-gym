@@ -1,0 +1,7 @@
+.custom{
+    background-color: hsl(199, 100%, 62%);
+    color: white;
+    margin: 2rem;
+    padding: 4rem;
+    border-radius: .75rem;
+}

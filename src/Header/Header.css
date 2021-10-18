@@ -1,0 +1,16 @@
+.link{
+    text-decoration: none;
+    color:#fff;
+    padding-right: 1rem;
+}
+.link:hover{
+    text-decoration: none;
+    color: #333;
+    padding-right: 1rem;
+    font-weight: bold;
+}
+.outline{
+    border: 2px solid #fff;
+    border-radius: 5px;
+    padding: 5px 25px;
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "Boxing Training",
+        "instructor": "Gary Willson",
+        "age": 27,
+        "img": "./images/serv1.jpg",
+        "country": "Norway",
+        "price": 250
+    },
+    {
+        "id": 2,
+        "title": "Weight Lifting",
+        "instructor": "Laurie Stover",
+        "age": 20,
+        "img": "./images/serv2.jpg",
+        "country": "USA",
+        "price": 150
+    },
+    {
+        "id": 3,
+        "title": "Cardio Training",
+        "instructor": "Jean Rivera",
+        "age": 26,
+        "img": "./images/serv3.jpg",
+        "country": "UK",
+        "price": 220
+    },
+    {
+        "id": 4,
+        "title": "Crossfit Training",
+        "instructor": "Jackson Bird",
+        "age": 19,
+        "img": "./images/serv4.jpg",
+        "country": "South Africa",
+        "price": 250
+    },
+    {
+        "id": 5,
+        "title": "Strength Training",
+        "instructor": "Carl Lange",
+        "age": 23,
+        "img": "./images/serv5.jpg",
+        "country": "Canada",
+        "price": 250
+    },
+    {
+        "id": 6,
+        "title": "Weight Loss Training",
+        "instructor": "Lois Wilson",
+        "age": 28,
+        "img": "./images/serv6.jpg",
+        "country": "Romania",
+        "price": 240
+    },
+    {
+        "id": 7,
+        "title": "Endurance Training",
+        "instructor": "Steve Jones",
+        "age": 18,
+        "img": "./images/serv7.jpg",
+        "country": "Scotland",
+        "price": 300
+    },
+    {
+        "id": 8,
+        "title": "Swimming Training",
+        "instructor": "Mary Dillard",
+        "age": 25,
+        "img": "./images/serv8.jpg",
+        "country": "Australia",
+        "price": 250
+    },
+    {
+        "id": 9,
+        "title": "Gym Locker",
+        "instructor": "Sharon Jackson",
+        "age": 21,
+        "img": "./images/serv9.jpg",
+        "country": "Finland",
+        "price": 250
+    }
+]

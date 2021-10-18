@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer{
+    background-color: #212529;
+    padding: 2rem;
+    text-align: center;
+}
+.f-link{
+    text-decoration: none;
+    color: white;
+    
+}
