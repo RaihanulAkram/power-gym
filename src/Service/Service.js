@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
-import { Link } from "react-router-dom"
+import { NavLink } from "react-router-dom"
 
 const Service = (props) => {
     const { title, instructor, img, price, country, description } = props.service;
@@ -16,7 +16,7 @@ const Service = (props) => {
                         <p>Description: {description}</p>
                         <h5>Country: {country}</h5>
                         <h5>Price: <i className="fas fa-dollar-sign"></i> {price}</h5>
-                        <Link to="/services" className="btn btn-primary my-2 shadow">Buy Now</Link>
+                        <NavLink className="btn btn-primary my-2 shadow">Add to Cart</NavLink>
                     </Card.Body>
                 </Card>
             </Col>

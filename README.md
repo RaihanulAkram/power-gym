@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# PowerGym
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Code Link: https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-RaihanulAkram
 
-## Available Scripts
+Live Site Link: 
 
-In the project directory, you can run:
+## Kickstart a successful  career as a Specialist Exercise Trainer with a Diploma of Fitness
 
-### `npm start`
+Get Better Technical Skills. Our state-of-the-art online training portal has been designed to aid fast, enjoyable learning. Study in your own time, at your own pace. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Our vision
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Our vission is to make people healthy by leading a healthy lifestyle.
+.
 
-### `npm test`
+### About us
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Welcome to PowerGym, the world's largest professional network with 774+ million members in more than 200 countries and territories worldwide.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Our Mission
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Our Mission is to make people fit and strong with the help of power training.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Our core value
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Core values are a set of basic practices that inform how you conduct your life.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+** Our History
 
-## Learn More
+PowerGym began was officially launched on May 5, 2003 in New York.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Today, PowerGym leads a diversified business with revenues from membership subscriptions, advertising sales and recruitment solutions under the leadership of Ryan Roslansky.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Our Services
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Get Better Technical Skills. Our state-of-the-art online training portal has been designed to aid fast, enjoyable learning. Study in your own time, at your own pace.
+Learn Practical Business Skills. You’ll also get our Bonus PT Business Success Course (value $995) that teaches you how to get hired, get clients, transform lives and earn great money.
+Fanatical Support. Our expert team of Tutors, Career Advisors, Admin & IT support staff are here to guide you through your course and are passionate about helping you succeed!
