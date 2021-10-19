@@ -16,7 +16,7 @@ const Service = (props) => {
                         <p>Description: {description}</p>
                         <h5>Country: {country}</h5>
                         <h5>Price: <i className="fas fa-dollar-sign"></i> {price}</h5>
-                        <NavLink className="btn btn-primary my-2 shadow">Add to Cart</NavLink>
+                        <NavLink to="/services" className="btn btn-primary my-2 shadow">Add to Cart</NavLink>
                     </Card.Body>
                 </Card>
             </Col>

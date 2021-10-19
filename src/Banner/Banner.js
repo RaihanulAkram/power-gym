@@ -39,7 +39,7 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h1>Third slide label</h1>
+                        <h1>Heavy heavy lifting</h1>
                         <p>Never say the sky’s the limit.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
