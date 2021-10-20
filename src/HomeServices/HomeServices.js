@@ -16,7 +16,7 @@ const HomeServices = () => {
                 <h2 className="text-center my-5 text-primary">Our Services</h2>
                 <div className="container">
                     <Row xs={1} md={3} className
-                        ="row g-4">
+                        ="g-4">
                         {
                             serviceSlice.map(service => <HomeService
                                 key={service.id}
